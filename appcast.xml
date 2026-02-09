@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>QClone Studio Updates</title>
+    <link>https://github.com/Toanatp/qclone-releases</link>
+    <description>QClone Studio - Test update</description>
+
+    <item>
+      <title>QClone Studio 2.0.1</title>
+      <pubDate>Fri, 16 Jan 2026 08:31:11 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Toanatp/qclone-releases/releases/tag/2.0.1</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/Toanatp/qclone-releases/releases/download/2.0.1/qclone_update.ssu"
+        sparkle:version="2.0.1"
+        sparkle:shortVersionString="2.0.1"
+        sparkle:osBuild="20001"
+        sparkle:sha256="9F28151BFAA18DACFE6E70596C6685CE06EB9186271E6DA0ECB619DB2157CAD5"
+        sparkle:edSignature="Vo/kQeUCsiBftWu2b0UGBIqub0JgCk6nMtpAYpaTY9LVV5xzMQPstMG8tbFeKic7l0eV4KqBxv5LXH3jMmFKDQ=="
+        length="757"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

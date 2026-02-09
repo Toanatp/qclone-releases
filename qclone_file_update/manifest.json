@@ -1,0 +1,19 @@
+﻿{
+    "version":  "2.0.1",
+    "app_name":  "QClone Studio",
+    "files":  [
+                  {
+                      "source":  "files/hello.txt",
+                      "target":  "files/hello.txt",
+                      "type":  "file",
+                      "hash":  "sha256:EB5F560A7A9556B21130A0AE38E97675AF1F4350D3D3B1709844793DB00618ED"
+                  }
+              ],
+    "remove":  [
+
+               ],
+    "post_install":  {
+                         "restart_required":  true,
+                         "message":  "QClone Studio đã được cập nhật thành công!"
+                     }
+}
