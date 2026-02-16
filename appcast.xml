@@ -6,17 +6,17 @@
     <description>QClone Studio - Test update</description>
 
     <item>
-      <title>QClone Studio 2.0.1</title>
-      <pubDate>Fri, 16 Jan 2026 08:31:11 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/Toanatp/qclone-releases/releases/tag/2.0.1</sparkle:releaseNotesLink>
+      <title>QClone Studio 2.0.2</title>
+      <pubDate>Mon, 16 Feb 2026 13:25:32 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Toanatp/qclone-releases/releases/tag/2.0.2</sparkle:releaseNotesLink>
       <enclosure
-        url="https://github.com/Toanatp/qclone-releases/releases/download/2.0.1/qclone_update.ssu"
-        sparkle:version="2.0.1"
-        sparkle:shortVersionString="2.0.1"
+        url="https://github.com/Toanatp/qclone-releases/releases/download/2.0.2/qclone_update.ssu"
+        sparkle:version="2.0.2"
+        sparkle:shortVersionString="2.0.2"
         sparkle:osBuild="20001"
-        sparkle:sha256="9F28151BFAA18DACFE6E70596C6685CE06EB9186271E6DA0ECB619DB2157CAD5"
-        sparkle:edSignature="Vo/kQeUCsiBftWu2b0UGBIqub0JgCk6nMtpAYpaTY9LVV5xzMQPstMG8tbFeKic7l0eV4KqBxv5LXH3jMmFKDQ=="
-        length="757"
+        sparkle:sha256="41A7C53A55DF9A364751EB90B7F97835BE8DF046B10393930D6BA57DD7F8099A"
+        sparkle:edSignature="aNbE4E691OY/9KvBbS84OoHeFzVw9SYxUkhCBdcLcNoRqvtGdon+P7P4hjz3wKrEX+Phfx9UsVH0T7qXVwLKCA=="
+        length="753"
         type="application/octet-stream" />
     </item>
   </channel>
