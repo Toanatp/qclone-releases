@@ -1,0 +1,28 @@
+{
+  "version": "2.0.6",
+  "build_number": 20006,
+  "channel": "stable",
+  "tag": "v2.0.6",
+  "stage_dir": "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6",
+  "portable_zip": "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6\\QClone-2.0.6-win64-portable.zip",
+  "update_package": "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6\\QClone-2.0.6-update.ssu",
+  "appcast": "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6\\appcast.xml",
+  "release_notes": "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6\\release_notes.md",
+  "owner": "Toanatp",
+  "repo": "qclone-releases",
+  "created_at_utc": "2026-05-26T15:41:18.502370Z",
+  "assets": [
+    "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6\\QClone-2.0.6-update.ssu",
+    "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6\\QClone-2.0.6-win64-portable.zip",
+    "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\runtime\\qclone-ai-runtime-win64.zip.part01",
+    "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\runtime\\qclone-ai-runtime-win64.zip.part02",
+    "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\runtime\\qclone-ai-runtime-win64.manifest.json",
+    "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6\\QClone-2.0.6-setup.exe"
+  ],
+  "runtime_parts": [
+    "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\runtime\\qclone-ai-runtime-win64.zip.part01",
+    "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\runtime\\qclone-ai-runtime-win64.zip.part02"
+  ],
+  "runtime_manifest": "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\runtime\\qclone-ai-runtime-win64.manifest.json",
+  "installer": "G:\\Tool_All\\Qwen3-TTS\\build\\desktop-release\\v2.0.6\\QClone-2.0.6-setup.exe"
+}
